@@ -131,9 +131,7 @@ body {
 .home-img img {
   display: flex; /* Makes the image a block element */
   margin: auto;
-  justify-content: right;
-  align-items: right;
-  max-width: 55%;
+  max-width: 60%;
   height: auto;
   border-radius: 20px;
   box-shadow: 5px 5px 15px r
